@@ -35,3 +35,5 @@ git checkout main
 git merge dev
 git push
 git checkout dev
+
+open to check repo [Open](https://github.com/riteshkrdev)
